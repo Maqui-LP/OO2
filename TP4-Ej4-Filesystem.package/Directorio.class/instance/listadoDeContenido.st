@@ -1,3 +1,3 @@
 accessing
 listadoDeContenido
-	^ self listadoDeDirectorio: ''
+	^ (self listadoDeDirectorio: '') trim
