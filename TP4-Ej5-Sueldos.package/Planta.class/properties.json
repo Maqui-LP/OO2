@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Empleado",
+	"category" : "TP4-Ej5-Sueldos",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Planta",
+	"type" : "normal"
+}

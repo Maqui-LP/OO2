@@ -1,0 +1,3 @@
+accessing
+sueldoAdicional
+	self subclassResponsibility 

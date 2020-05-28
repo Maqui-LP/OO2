@@ -1,0 +1,3 @@
+accessing
+sueldoBasico
+	self subclassResponsibility

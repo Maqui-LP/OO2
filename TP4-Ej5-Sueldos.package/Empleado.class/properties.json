@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TP4-Ej5-Sueldos",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"antiguedad",
+		"hijos",
+		"estadoCivil"
+	],
+	"name" : "Empleado",
+	"type" : "normal"
+}

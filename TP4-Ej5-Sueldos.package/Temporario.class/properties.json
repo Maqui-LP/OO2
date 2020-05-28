@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Empleado",
+	"category" : "TP4-Ej5-Sueldos",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"horasTrabajadas"
+	],
+	"name" : "Temporario",
+	"type" : "normal"
+}
