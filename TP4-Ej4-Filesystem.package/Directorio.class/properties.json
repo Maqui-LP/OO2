@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Filesystem",
+	"category" : "TP4-Ej4-Filesystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contenido"
+	],
+	"name" : "Directorio",
+	"type" : "normal"
+}

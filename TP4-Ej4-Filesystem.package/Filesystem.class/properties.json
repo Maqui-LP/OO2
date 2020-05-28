@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TP4-Ej4-Filesystem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fechaCreacion",
+		"nombre",
+		"tamaño"
+	],
+	"name" : "Filesystem",
+	"type" : "normal"
+}

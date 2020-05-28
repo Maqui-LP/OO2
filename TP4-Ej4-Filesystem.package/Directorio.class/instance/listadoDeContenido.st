@@ -1,0 +1,3 @@
+accessing
+listadoDeContenido
+	^ self listadoDeDirectorio: ''
