@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TP4-Ej1-Biblioteca",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nombre",
+		"email",
+		"legajo"
+	],
+	"name" : "Socio",
+	"type" : "normal"
+}

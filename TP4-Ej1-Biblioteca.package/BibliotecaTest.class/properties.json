@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TP4-Ej1-Biblioteca",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socios",
+		"socio1",
+		"socio2",
+		"exporter",
+		"biblioteca"
+	],
+	"name" : "BibliotecaTest",
+	"type" : "normal"
+}

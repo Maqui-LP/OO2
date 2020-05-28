@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TP4-Ej1-Biblioteca",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"socio"
+	],
+	"name" : "SocioTest",
+	"type" : "normal"
+}
