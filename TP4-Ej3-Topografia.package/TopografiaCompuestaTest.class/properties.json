@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TP4-Ej3-Topografia",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"topografiaCompuesta",
+		"topografias"
+	],
+	"name" : "TopografiaCompuestaTest",
+	"type" : "normal"
+}
