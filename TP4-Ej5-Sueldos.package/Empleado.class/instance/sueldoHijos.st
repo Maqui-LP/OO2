@@ -1,3 +1,3 @@
-as yet unclassified
+behavior
 sueldoHijos
-	^ self cantHijos * 100
+	^ (self cantHijos ) * 100

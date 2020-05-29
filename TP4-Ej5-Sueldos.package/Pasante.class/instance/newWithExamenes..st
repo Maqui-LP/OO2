@@ -1,3 +1,4 @@
 instance creation
 newWithExamenes: unosExamenes
-	examenes := unosExamenes 
+	examenes := unosExamenes.
+	estadoCivil := false

@@ -1,0 +1,3 @@
+behavior
+sueldoExamenes
+	^ 0

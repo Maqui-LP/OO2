@@ -1,5 +1,5 @@
 instance creation
-newWithHorasTrabajadas: unasHoras hijos: cantHijos estaCasade: unEstadoCivil
+newWithHorasTrabajadas: unasHoras Hijos: cantHijos EstaCasade: unEstadoCivil
 	horasTrabajadas := unasHoras.
 	hijos := cantHijos.
 	estadoCivil := unEstadoCivil.

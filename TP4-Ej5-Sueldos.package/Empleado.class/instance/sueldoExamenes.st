@@ -1,3 +1,3 @@
 behavior
-sueldoAntiguedad
+sueldoExamenes
 	self subclassResponsibility 

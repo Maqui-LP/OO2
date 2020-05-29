@@ -1,3 +1,3 @@
 accessing
 sueldoAdicional
-	self subclassResponsibility 
+	^ self sueldoHijos + self sueldoAntiguedad + self sueldoCasade + self sueldoExamenes
