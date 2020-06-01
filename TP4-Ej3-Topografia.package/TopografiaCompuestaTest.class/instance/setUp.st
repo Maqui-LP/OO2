@@ -2,6 +2,6 @@ running
 setUp
 	self setUpTopografiasCompuestas.
 	topografiaCompuesta := TopografiaCompuesta
-		newTopografias: topografias1.
-	topoCompuestaPorCompuestas := TopografiaCompuesta
-		newTopografias: topografias2
+		newTopografias: topografias.
+	agua := TopografiaSimpleAgua new.
+	tierra := TopografiaSimpleTierra new

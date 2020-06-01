@@ -7,11 +7,11 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"topografiaCompuesta",
-		"topografias1",
-		"topografias2",
-		"topoIgual1",
-		"topoIgual2",
-		"topoCompuestaPorCompuestas"
+		"topografias",
+		"topoIgual",
+		"topoDistinta",
+		"agua",
+		"tierra"
 	],
 	"name" : "TopografiaCompuestaTest",
 	"type" : "normal"

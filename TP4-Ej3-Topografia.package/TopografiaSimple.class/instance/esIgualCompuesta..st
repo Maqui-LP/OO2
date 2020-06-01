@@ -1,0 +1,3 @@
+boolean
+esIgualCompuesta: unaTopografia 
+	^ false 
