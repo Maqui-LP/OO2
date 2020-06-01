@@ -1,3 +1,0 @@
-accessing
-proporcion
-	self subclassResponsibility 

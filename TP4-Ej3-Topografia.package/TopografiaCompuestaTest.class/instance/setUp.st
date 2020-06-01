@@ -1,9 +1,7 @@
 running
 setUp
-	topografias := OrderedCollection
-		with: TopografiaSimple topografiaSimpleAgua
-		with: TopografiaSimple topografiaSimpleTierra
-		with: TopografiaSimple topografiaSimpleAgua
-		with: TopografiaSimple topografiaSimpleTierra.
+	self setUpTopografiasCompuestas.
 	topografiaCompuesta := TopografiaCompuesta
-		newTopografias: topografias
+		newTopografias: topografias1.
+	topoCompuestaPorCompuestas := TopografiaCompuesta
+		newTopografias: topografias2

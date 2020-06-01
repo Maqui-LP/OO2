@@ -1,5 +1,4 @@
 calculations
 calcularProporcion
-	proporcion := (topografias
+	^(topografias
 		sum: [ :topografia | topografia proporcion ]) / 4.
-	^ proporcion

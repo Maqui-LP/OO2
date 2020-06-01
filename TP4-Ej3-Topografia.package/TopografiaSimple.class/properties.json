@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"tipo"
-	],
+	"instvars" : [ ],
 	"name" : "TopografiaSimple",
 	"type" : "normal"
 }
