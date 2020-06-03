@@ -1,3 +1,3 @@
 accessing
-timeEnd: aDate
+endTime: aDate
 	endTime := aDate
