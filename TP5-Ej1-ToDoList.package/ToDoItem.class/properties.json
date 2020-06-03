@@ -8,8 +8,9 @@
 	"instvars" : [
 		"state",
 		"name",
-		"timeStart",
-		"timeEnd"
+		"startTime",
+		"endTime",
+		"comments"
 	],
 	"name" : "ToDoItem",
 	"type" : "normal"

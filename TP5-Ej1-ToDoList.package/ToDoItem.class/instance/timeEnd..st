@@ -1,3 +1,3 @@
 accessing
 timeEnd: aDate
-	timeEnd := aDate
+	endTime := aDate
