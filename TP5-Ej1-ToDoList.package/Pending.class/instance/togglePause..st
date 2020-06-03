@@ -1,3 +1,3 @@
-as yet unclassified
+behavior
 togglePause: aToDoItem 
 	self error: 'Accion invalida. La tarea no ha sido comenzada'
