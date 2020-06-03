@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TP5-Ej1-ToDoList",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"state",
+		"name",
+		"time"
+	],
+	"name" : "ToDoItem",
+	"type" : "normal"
+}
