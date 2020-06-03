@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TP5-Ej1-ToDoList",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"toDoItem1",
+		"toDoItem2"
+	],
+	"name" : "ToDoItemTest",
+	"type" : "normal"
+}
