@@ -8,7 +8,7 @@
 	"instvars" : [
 		"antiguedad",
 		"hijes",
-		"estadoCivil"
+		"estaCasade"
 	],
 	"name" : "Empleade",
 	"type" : "normal"

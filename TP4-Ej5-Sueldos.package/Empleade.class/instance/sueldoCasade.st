@@ -1,5 +1,5 @@
 behavior
 sueldoCasade
-	self estadoCivil 
+	self estaCasade 
 	ifTrue: [^ 500].
 	^ 0
