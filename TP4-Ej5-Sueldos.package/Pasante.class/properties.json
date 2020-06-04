@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "Empleado",
+	"super" : "Empleade",
 	"category" : "TP4-Ej5-Sueldos",
 	"classinstvars" : [ ],
 	"pools" : [ ],

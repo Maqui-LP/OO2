@@ -1,15 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "Empleade",
 	"category" : "TP4-Ej5-Sueldos",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"antiguedad",
-		"hijes",
-		"estadoCivil"
+		"horasTrabajadas"
 	],
-	"name" : "Empleado",
+	"name" : "Temporarie",
 	"type" : "normal"
 }

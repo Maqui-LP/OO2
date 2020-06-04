@@ -1,7 +1,7 @@
 running
 setUp
 	pasante := Pasante newWithExamenes: 2.
-	temporario := Temporario
+	temporarie := Temporarie
 		newWithHorasTrabajadas: 50
 		Hijes: 0
 		EstaCasade: false.

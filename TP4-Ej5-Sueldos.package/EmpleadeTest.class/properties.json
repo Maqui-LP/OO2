@@ -1,13 +1,15 @@
 {
 	"commentStamp" : "",
-	"super" : "Empleado",
+	"super" : "TestCase",
 	"category" : "TP4-Ej5-Sueldos",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"horasTrabajadas"
+		"pasante",
+		"planta",
+		"temporarie"
 	],
-	"name" : "Temporario",
+	"name" : "EmpleadeTest",
 	"type" : "normal"
 }

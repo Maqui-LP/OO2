@@ -1,15 +1,15 @@
 {
 	"commentStamp" : "",
-	"super" : "TestCase",
+	"super" : "Object",
 	"category" : "TP4-Ej5-Sueldos",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"pasante",
-		"planta",
-		"temporario"
+		"antiguedad",
+		"hijes",
+		"estadoCivil"
 	],
-	"name" : "EmpleadoTest",
+	"name" : "Empleade",
 	"type" : "normal"
 }

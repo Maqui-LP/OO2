@@ -1,3 +1,3 @@
 behavior
-sueldoHijos
+sueldoHijes
 	^ 0
