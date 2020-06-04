@@ -1,3 +1,0 @@
-accessing
-cantHijes
-	^ 0

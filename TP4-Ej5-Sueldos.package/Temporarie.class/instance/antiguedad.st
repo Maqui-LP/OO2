@@ -1,3 +1,0 @@
-accessing
-antiguedad
-	^0

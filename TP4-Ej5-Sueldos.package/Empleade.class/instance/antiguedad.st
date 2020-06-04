@@ -1,3 +1,3 @@
 accessing
 antiguedad
-	self subclassResponsibility 
+	^ antiguedad

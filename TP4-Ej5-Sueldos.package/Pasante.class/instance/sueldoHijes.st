@@ -1,3 +1,0 @@
-behavior
-sueldoHijes
-	^ 0

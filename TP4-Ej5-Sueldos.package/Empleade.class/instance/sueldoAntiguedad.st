@@ -1,3 +1,3 @@
 behavior
 sueldoAntiguedad
-	self subclassResponsibility 
+	^ self antiguedad * 100

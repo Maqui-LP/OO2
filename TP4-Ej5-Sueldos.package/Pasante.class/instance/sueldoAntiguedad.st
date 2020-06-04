@@ -1,3 +1,0 @@
-behavior
-sueldoAntiguedad 
-	^ 0
