@@ -1,3 +1,3 @@
 behavior
 sueldoHijos
-	^ (self cantHijos ) * 100
+	^ (self cantHijes ) * 100
