@@ -1,3 +1,3 @@
 behavior
 finish: aToDoItem
-	
+	^ self

@@ -1,3 +1,3 @@
 accessing
-start: aToDoItem 
-	
+start: aToDoItem
+	^ self
