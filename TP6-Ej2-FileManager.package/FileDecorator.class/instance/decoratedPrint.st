@@ -1,0 +1,3 @@
+printing
+decoratedPrint 
+	^ self subclassResponsibility 

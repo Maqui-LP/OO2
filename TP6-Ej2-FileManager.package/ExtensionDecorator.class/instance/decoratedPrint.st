@@ -1,0 +1,3 @@
+printing
+decoratedPrint 
+	^ wrapped extension 

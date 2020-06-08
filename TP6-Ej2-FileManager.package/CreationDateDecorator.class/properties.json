@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "FileDecorator",
+	"category" : "TP6-Ej2-FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CreationDateDecorator",
+	"type" : "normal"
+}

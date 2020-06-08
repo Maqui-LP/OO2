@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "TP6-Ej2-FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"file",
+		"wrappedFile"
+	],
+	"name" : "FileComponentTest",
+	"type" : "normal"
+}

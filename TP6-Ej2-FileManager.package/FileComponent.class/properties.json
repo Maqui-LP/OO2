@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TP6-Ej2-FileManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"extension",
+		"size",
+		"creationDate",
+		"modificationDate",
+		"permissions"
+	],
+	"name" : "FileComponent",
+	"type" : "normal"
+}
