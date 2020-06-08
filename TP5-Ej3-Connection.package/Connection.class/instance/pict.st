@@ -1,0 +1,3 @@
+behavior
+pict
+	^ self subclassResponsibility 

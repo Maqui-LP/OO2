@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Connection",
+	"category" : "TP5-Ej3-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"_4gconnection"
+	],
+	"name" : "G4ConnectionAdapter",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CRC_Calculator",
+	"category" : "TP5-Ej3-Connection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CRC32_Calculator",
+	"type" : "normal"
+}
