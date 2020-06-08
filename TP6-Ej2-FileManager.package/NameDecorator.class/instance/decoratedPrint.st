@@ -1,3 +1,3 @@
 printing
-decoratedPrint 
-	^ wrapped name
+decoratedPrint
+	^ self wrapped name

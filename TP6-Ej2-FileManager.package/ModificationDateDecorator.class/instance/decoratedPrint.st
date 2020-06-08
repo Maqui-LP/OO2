@@ -1,3 +1,3 @@
 printing
 decoratedPrint
-	^ wrapped modificationDate 
+	^ self wrapped modificationDate

@@ -1,3 +1,3 @@
 printing
-decoratedPrint 
-	^ wrapped extension 
+decoratedPrint
+	^ self wrapped extension

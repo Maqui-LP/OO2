@@ -1,3 +1,3 @@
 menu commands
 prettyPrint
-	^ wrapped prettyPrint , ' - ' , self decoratedPrint
+	^ self wrapped prettyPrint , ' - ' , self decoratedPrint

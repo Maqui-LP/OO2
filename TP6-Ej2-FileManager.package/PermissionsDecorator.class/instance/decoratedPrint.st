@@ -1,3 +1,3 @@
 printing
-decoratedPrint 
-	^ wrapped permissions 
+decoratedPrint
+	^ self wrapped permissions
