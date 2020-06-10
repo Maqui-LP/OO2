@@ -1,3 +1,5 @@
 adding
-addComment: aComment to: aCommentsCollection
-	aCommentsCollection add: aComment
+addComment: aComment to: aToDoItem
+	"aCommentsCollection
+	aCommentsCollection add: aComment"
+	aToDoItem comments add: aComment

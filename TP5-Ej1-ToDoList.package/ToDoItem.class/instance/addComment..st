@@ -1,3 +1,3 @@
 adding
 addComment: aComment
-	state addComment: aComment to: self comments 
+	state addComment: aComment to: self "self comments"
