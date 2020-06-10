@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "VoorheesExporter",
+	"name" : "NeoJSONAdapter",
 	"type" : "normal"
 }

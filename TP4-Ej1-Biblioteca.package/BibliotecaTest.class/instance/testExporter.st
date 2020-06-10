@@ -1,3 +1,3 @@
 tests
 testExporter
-	self assert: biblioteca exporter equals: exporter 
+	self assert: bibliotecaVoorhes exporter equals: exporter

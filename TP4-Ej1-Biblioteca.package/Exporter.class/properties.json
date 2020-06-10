@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Exporter",
+	"super" : "Object",
 	"category" : "TP4-Ej1-Biblioteca",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "VoorheesExporter",
+	"name" : "Exporter",
 	"type" : "normal"
 }

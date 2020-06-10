@@ -10,7 +10,9 @@
 		"socio1",
 		"socio2",
 		"exporter",
-		"biblioteca"
+		"exporterNJSON",
+		"bibliotecaVoorhes",
+		"bibliotecaNeoJSON"
 	],
 	"name" : "BibliotecaTest",
 	"type" : "normal"

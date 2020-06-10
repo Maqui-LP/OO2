@@ -1,4 +1,4 @@
-as yet unclassified
+export
 exportarSocios
 "Retorna la representacion JSON de la coleccion de socios."
 
