@@ -1,3 +1,3 @@
 printing
 decoratedPrint
-	^ self wrapped size1
+	^ wrapped size1
