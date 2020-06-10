@@ -1,3 +1,4 @@
 adding
 addComment: aComment
-	state addComment: aComment to: self "self comments"
+	state addComment
+	ifTrue: [ self comments add: aComment ]
